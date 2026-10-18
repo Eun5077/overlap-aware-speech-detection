@@ -80,10 +80,6 @@ speech was quieter than singing.
   rather than real-world music recordings.
 - Training, validation, and test data each contain one singer.
 - Predictions are made at the 2-second clip level.
-- Generalization to diverse speakers and recording conditions
-  has not yet been evaluated.
-- The cleaned notebook has not yet been verified through a
-  complete fresh-runtime execution.
 
 ## Technologies
 
