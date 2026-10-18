@@ -1,0 +1,8 @@
+numpy
+pandas
+matplotlib
+librosa
+soundfile
+huggingface_hub
+torch
+tqdm
